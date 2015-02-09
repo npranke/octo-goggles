@@ -10,10 +10,3 @@ def factorial(n):
 		factorial(n - 1)
 
 print "this is 8!: " + str(factorial(8))
-
-# this change will be undone:
-print str(factorial(0))
-print str(factorial(1))
-print str(factorial(2))
-print str(factorial(3))
-print str(factorial(4))
