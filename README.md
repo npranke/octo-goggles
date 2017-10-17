@@ -1,3 +1,3 @@
-# octo-sansa-test
+# octo-goggles
 
 ## for experiments
